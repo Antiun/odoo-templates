@@ -52,8 +52,8 @@ Credits
 Contributors
 ------------
 
-* Firstname Lastname <email.address@example.org>
-* Second Person <second.person@example.org>
+* Rafael Blasco <rafabn@antiun.com>
+* Antonio Espinosa <antonioea@antiun.com>
 
 Maintainer
 ----------
