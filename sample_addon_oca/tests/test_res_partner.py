@@ -4,10 +4,12 @@
 ##############################################################################
 
 from openerp.tests.common import TransactionCase
+from openerp.exceptions import Warning
+from . import base
 
 
 # One test case per method
-class TestResPartner(TransactionCase):
+class TestResPartner(base.BaseCase):
     # Use case : Prepare some data for current test case
     # def setUp(self):
     #     super(TestResPartner, self).setUp()
@@ -27,3 +29,7 @@ class TestResPartner(TransactionCase):
         # self.assertEqual(
         #     record.field,
         #     expected_field_value)
+
+        # Use case: Test an exception
+        # with self.assertRaises(Warning):
+        #     self.env['res.partner'].create({'name': False})
