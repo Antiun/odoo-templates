@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 ##############################################################################
-# For copyright and license notices, see __openerp__.py file in root directory
+# License AGPL-3 - See LICENSE file on repo root folder for details
 ##############################################################################
 
 from openerp.tests.common import TransactionCase
@@ -36,6 +36,7 @@ from openerp.tests.common import TransactionCase
 #         ),
 #     }
 # }
+
 
 class BaseCase(TransactionCase):
     # Use case : Prepare some data for current test case
