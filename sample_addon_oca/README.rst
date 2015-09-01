@@ -1,6 +1,6 @@
 .. image:: https://img.shields.io/badge/licence-AGPL--3-blue.svg
+    :target: http://www.gnu.org/licenses/agpl-3.0-standalone.html
     :alt: License: AGPL-3
-    :target: http://www.gnu.org/licenses/agpl.html
 
 ==============
 {module_title}
@@ -69,7 +69,7 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU Affero General Public License for more details.
 
 You should have received a copy of the GNU Affero General Public License
-along with this program. If not, see <http://www.gnu.org/licenses/agpl.html>.
+along with this program. If not, see <http://www.gnu.org/licenses/agpl-3.0-standalone.html>.
 
 
 Credits
