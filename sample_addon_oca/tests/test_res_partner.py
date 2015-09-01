@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
-##############################################################################
-# License AGPL-3 - See LICENSE file on repo root folder for details
-##############################################################################
+# See README.rst file on addon root folder for license details
 
 from openerp.tests.common import TransactionCase
 from openerp.exceptions import Warning
