@@ -1,28 +1,39 @@
 # -*- coding: utf-8 -*-
-# License AGPL-3: Antiun Ingenieria S.L. - Antonio Espinosa
-# See README.rst file on addon root folder for more details
+# © 2015 Antiun Ingenieria S.L. - Antonio Espinosa
+# License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl.html).
 
 {
-    'name': "Sample Addon",
-    'category': 'Personalization',
-    'version': '8.0.1.0.0',
-    'depends': [
-        'base',
-    ],
-    'external_dependencies': {},
-    'data': [
-    ],
-    'qweb': [
-    ],
-    'js': [
-    ],
-    'author': 'Antiun Ingeniería S.L., '
-              'Odoo Community Association (OCA)',
-    'website': 'http://www.antiun.com',
-    'license': 'AGPL-3',
-    'demo': [],
-    'test': [],
-    'installable': True,
+    "name": "Module name",
+    "summary": "Module summary",
+    "version": "8.0.1.0.0",
+    "category": "Uncategorized",
+    "website": "http://www.antiun.com, "
+               "https://odoo-community.org/",
+    "author": "Antiun Ingeniería S.L., "
+              "Odoo Community Association (OCA)",
+    "license": "AGPL-3",
+    "application": False,
+    "installable": True,
     # 'auto_install':False,
-    # 'application':False,
+    "external_dependencies": {
+        "python": [],
+        "bin": [],
+    },
+    "depends": [
+        "base",
+    ],
+    "data": [
+        "security/some_model_security.xml",
+        "security/ir.model.access.csv",
+        "views/assets.xml",
+        "views/report_name.xml",
+        "views/res_partner_view.xml",
+        "wizard/wizard_model_view.xml",
+    ],
+    "demo": [
+        "demo/res_partner_demo.xml",
+    ],
+    "qweb": [
+        "static/src/xml/module_name.xml",
+    ]
 }
