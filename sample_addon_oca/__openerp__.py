@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# © 2015 Antiun Ingenieria S.L. - Antonio Espinosa
+# © 2015 Antiun Ingenieria S.L. - <AUTHOR(S)>
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl.html).
 
 {
@@ -7,8 +7,7 @@
     "summary": "Module summary",
     "version": "8.0.1.0.0",
     "category": "Uncategorized",
-    "website": "http://www.antiun.com, "
-               "https://odoo-community.org/",
+    "website": "http://www.antiun.com",
     "author": "Antiun Ingeniería S.L., "
               "Odoo Community Association (OCA)",
     "license": "AGPL-3",
