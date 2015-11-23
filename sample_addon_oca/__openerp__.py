@@ -7,8 +7,7 @@
     "summary": "Module summary",
     "version": "8.0.1.0.0",
     "category": "Uncategorized",
-    "website": "http://www.antiun.com, "
-               "https://odoo-community.org/",
+    "website": "http://www.antiun.com",
     "author": "Antiun Ingeniería S.L., "
               "Odoo Community Association (OCA)",
     "license": "AGPL-3",
