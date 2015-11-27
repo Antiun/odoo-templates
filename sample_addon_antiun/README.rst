@@ -75,7 +75,7 @@ Contributors
 Maintainer
 ----------
 
-.. image:: http://www.antiun.com/images/logo.png
+.. image:: http://www.antiun.com/images/logo-b.png
    :alt: Antiun Ingeniería S.L.
    :target: http://www.antiun.com
 
@@ -86,4 +86,4 @@ and provides Odoo development, install, maintenance and hosting
 services.
 
 To contribute to this module, please visit https://github.com/Antiun
-or contact us at comercial@antiun.com
+or contact us at odoo@antiun.com
