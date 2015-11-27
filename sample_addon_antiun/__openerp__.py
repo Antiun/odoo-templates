@@ -16,7 +16,7 @@
     ],
     'js': [
     ],
-    'author': 'Antiun Ingeniería S.L.',
+    'author': 'Antiun Ingeniería',
     'website': 'http://www.antiun.com',
     'license': 'AGPL-3',
     'demo': [],
